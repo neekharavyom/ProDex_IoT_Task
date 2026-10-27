@@ -4,7 +4,7 @@ Servo s1,s2;
 int a0,a1,a2,a3;
 int h=90,v=90;
 int d=30;//i assumed the threshold to be 30 since it is not mentioned
-int dark=10;//there is not enough sunlight so it doesnt move
+int dark=10;//there is not enough sunlight so it doesnt move.
 
 void setup()
 {
